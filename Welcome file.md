@@ -141,8 +141,9 @@ B --> D{Rhombus}
 C --> D
 ```
 
-# a
+# additional from kahidna
+alfin was add new line in the last line of the markdown
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MzE0MDE0NSwtMTEzMjgxODIwMywtNT
+eyJoaXN0b3J5IjpbLTk0NzkxMzAxNiwtMTEzMjgxODIwMywtNT
 AxOTIwNzY5XX0=
 -->
