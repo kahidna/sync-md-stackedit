@@ -1,7 +1,6 @@
 # Welcome to StackEdit!
 
-Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. If you have finished with me, you can just create new files by opening the **file explorer** on the left corner of the navigation bar.
-
+Hi, this markdown was override by alfin hidayat to test the sync between stackedit and github.
 
 # Files
 
@@ -142,5 +141,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMTkyMDc2OV19
+eyJoaXN0b3J5IjpbNDY5MjUwOTg4LC01MDE5MjA3NjldfQ==
 -->
