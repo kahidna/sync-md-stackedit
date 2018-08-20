@@ -4,7 +4,7 @@ Hi, this markdown was override by alfin hidayat to test the sync between stacked
 
 # Files
 
-StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
+there is no file in this repository, since its only testing the sync.
 
 ## Create files and folders
 
@@ -141,5 +141,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY5MjUwOTg4LC01MDE5MjA3NjldfQ==
+eyJoaXN0b3J5IjpbLTExMzI4MTgyMDMsLTUwMTkyMDc2OV19
 -->
